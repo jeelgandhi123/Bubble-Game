@@ -1,0 +1,3 @@
+Bubble Game is a fast-paced and addictive number-matching game developed using HTML, CSS, and JavaScript. Players are given a target number and must quickly click the matching number from a field of randomly generated bubbles before time runs out. The game tests reflexes and focus, updating the score in real-time based on correct selections. With a clean layout, countdown timer, and engaging mechanics, the Bubble Game offers a fun and challenging experience for all ages. The interface is fully responsive and works smoothly on both desktop and mobile devices.
+
+🟢 Live Demo:https://jeelgandhi-bubblegame.netlify.app/
